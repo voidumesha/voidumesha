@@ -2,7 +2,7 @@
 
 - { } I’m currently learning **React JS , React Native and Node JS**
 
-- 📫 How to reach me **umesharukshan2000@gmail.com**
+- 📫 Contact me via **umesharukshan2000@gmail.com**
  
 - 📱 My Telegram <a href="https://t.me/Void_Umesha" target="_blank" rel="noreferrer">**@Void_Umesha**</a>
 
