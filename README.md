@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umesha Rukshan Silva</h1>
 
-- {} I’m currently learning **React JS , React Native and Node JS**
+- { } I’m currently learning **React JS , React Native and Node JS**
 
 - 📫 How to reach me **umesharukshan2000@gmail.com**
  
