@@ -22,5 +22,4 @@
 <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25">
 </p>
 
-<img src="![codes](https://github.com/voidumesha/umesharukshan/assets/111561408/4d46c42a-7622-4d10-bb52-19214a0ed545)
-">
+<img src="https://github.com/voidumesha/umesharukshan/assets/111561408/4d46c42a-7622-4d10-bb52-19214a0ed545">
