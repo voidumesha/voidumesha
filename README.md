@@ -8,7 +8,7 @@
 
 - 🌐 Portfolio Website <a href="https://itschinth.dev" target="_blank" rel="noreferrer" >voidumesha.me</a>
 
-### 💻 I Work and Learn With
+### 💻 I am working and Learning With
 
 <p  align="center">
 
