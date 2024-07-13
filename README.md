@@ -26,11 +26,12 @@
 <img src="https://github.com/voidumesha/umesharukshan/assets/111561408/4d46c42a-7622-4d10-bb52-19214a0ed545"  align="center">
 </p>
 
+## GitHub Stats
+
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidumesha&show_icons=true&theme=dark&bg_color=000000)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidumesha&layout=compact&theme=dark&bg_color=000000)
+  <img src="https://github-readme-stats.vercel.app/api?username=voidumesha&show_icons=true&theme=dark&bg_color=000000" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidumesha&layout=compact&theme=dark&bg_color=000000" style="width: 45%;">
 
 </div>
 
