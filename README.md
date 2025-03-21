@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Umesha Rukshan Silva</h1>
 
-- { } I’m currently learning **React JS , React Native and Node JS**
+- { } I’m currently learning **Flutter, NLP, LLM, and Node JS**
 
 - 📫 Contact me via **umesharukshan2000@gmail.com**
  
 - 📱 My Telegram <a href="https://t.me/Void_Umesha" target="_blank" rel="noreferrer">**@Void_Umesha**</a>
 
-- 🌐 Portfolio Website <a href="https://www.voidumesha.com" target="_blank" rel="noreferrer" >voidumesha.me</a>
+- 🌐 Portfolio Website <a href="https://www.voidumesha.com" target="_blank" rel="noreferrer" >voidumesha.com</a>
 
 ### 💻 I am working and Learning With
 
